@@ -1,0 +1,19 @@
+
+//
+//  SetFile.pch
+//  TestView
+//
+//  Created by ma c on 16/3/17.
+//  Copyright © 2016年 gdd. All rights reserved.
+//
+
+#ifndef SetFile_pch
+#define SetFile_pch
+
+
+#import "MJExtension.h"
+
+#define NSLengLog(...)  NSLog(__VA_ARGS__)
+//#define NSLengLog(...)
+
+#endif

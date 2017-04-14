@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TestView.xcodeproj">
+      location = "self:/Users/lengqiuhui/Desktop/TestView/DataBaseOperation.xcodeproj">
    </FileRef>
 </Workspace>
